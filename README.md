@@ -583,7 +583,8 @@ Organizations should consider:
 
 | **Screenshot** | **Description**                                |
 | -------------- | ---------------------------------------------- |
-| `p1.jpeg`      | Kali Linux virtual-machine environment         |
+| <img src="EVIDENCE/W3-PM3/p1.jpeg" alt="Evidence p1" width="450"/>
+     | Kali Linux virtual-machine environment         |
 | `p2(1).jpeg`   | John the Ripper installation/help verification |
 
 ---
