@@ -583,9 +583,8 @@ Organizations should consider:
 
 | **Screenshot** | **Description**                                |
 | -------------- | ---------------------------------------------- |
-| <img src="EVIDENCE/W3-PM3/p1.jpeg" alt="Evidence p1" width="450"/>
-     | Kali Linux virtual-machine environment         |
-| `p2(1).jpeg`   | John the Ripper installation/help verification |
+| <img src="EVIDENCE/p1.jpeg" alt="Evidence P1" width="450"/> | Kali Linux virtual-machine environment         |
+|<img src="EVIDENCE/p2(1).jpeg" alt="Evidence P2(1)" width="450"/> | John the Ripper installation/help verification |
 
 ---
 
@@ -593,14 +592,14 @@ Organizations should consider:
 
 | **Screenshot** | **Description**                      |
 | -------------- | ------------------------------------ |
-| `p3(1).jpeg`   | PDF hash extraction using `pdf2john` |
-| `p4.jpeg`      | Extracted `$pdf$` hash               |
-| `L1(1).jpeg`   | Locating PDF extraction utilities    |
-| `L2(1).jpeg`   | Troubleshooting extraction           |
-| `L3(1).jpeg`   | `office2john.py` extraction          |
-| `L11.jpeg`     | Verification of extraction utility   |
-| `L22.jpeg`     | Extracted `pdf2.pdf` hash            |
-| `L34.jpeg`     | `PDF3.pdf` hash extraction           |
+|<img src="EVIDENCE/p3(1).jpeg" alt="Evidence p3(1).jpeg" width="450"/>  | PDF hash extraction using `pdf2john` |
+| <img src="EVIDENCE/p4.jpeg" alt="Evidence p4.jpeg" width="450"/> | Extracted `$pdf$` hash               |
+| <img src="EVIDENCE/L1(1).jpeg" alt="Evidence L1(1).jpeg" width="450"/> | Locating PDF extraction utilities    |
+|<img src="EVIDENCE/L2(1).jpeg" alt="Evidence L2(1).jpeg" width="450"/>  | Troubleshooting extraction           |
+|<img src="EVIDENCE/L3(1).jpeg" alt="Evidence L3(1).jpeg" width="450"/>  | `office2john.py` extraction          |
+|<img src="EVIDENCE/L11.jpeg" alt="Evidence L11.jpeg" width="450"/>      | Verification of extraction utility   |
+|<img src="EVIDENCE/L22.jpeg" alt="Evidence L22.jpeg" width="450"/>      | Extracted `pdf2.pdf` hash            |
+| <img src="EVIDENCE/L34.jpeg" alt="Evidence L34.jpeg" width="450"/>     | `PDF3.pdf` hash extraction           |
 
 ---
 
@@ -608,10 +607,10 @@ Organizations should consider:
 
 | **Screenshot** | **Description**                       |
 | -------------- | ------------------------------------- |
-| `p5(1).jpeg`   | JTR dictionary-testing session        |
-| `p7.jpeg`      | Networkwalks Password Cracker         |
-| `L33(1).jpeg`  | Networkwalks password-recovery result |
-| `L33.jpeg`     | PDF3 password-recovery result         |
+|<img src="EVIDENCE/p5(1).jpeg" alt="Evidence p5(1).jpeg" width="450"/>      | JTR dictionary-testing session        |
+|<img src="EVIDENCE/p7.jpeg " alt="Evidence p7.jpeg " width="450"/>          | Networkwalks Password Cracker         |
+|<img src="EVIDENCE/L33(1).jpeg" alt="Evidence L33(1).jpeg " width="450"/>   | Networkwalks password-recovery result |
+|<img src="EVIDENCE/L33.jpeg" alt="Evidence L33.jpeg" width="450"/>         | PDF3 password-recovery result         |
 
 ---
 
@@ -619,11 +618,11 @@ Organizations should consider:
 
 | **Screenshot** | **Description**                   |
 | -------------- | --------------------------------- |
-| `p6(1).jpeg`   | Flag/result verification          |
-| `L4(2).jpeg`   | Second verification result        |
-| `L44(1).jpeg`  | Third verification result         |
-| `L31(1).jpeg`  | Final verification                |
-| `L32.jpeg`     | Alternate final-result screenshot |
+|<img src="EVIDENCE/p6(1).jpeg" alt="Evidence p6(1).jpeg " width="450"/> ``   | Flag/result verification          |
+| <img src="EVIDENCE/L4(2).jpeg" alt="Evidence L4(2).jpeg" width="450"/>``    | Second verification result        |
+|<img src="EVIDENCE/L44(1).jpeg" alt="Evidence L44(1).jpeg " width="450"/> `` | Third verification result         |
+|<img src="EVIDENCE/L31(1).jpeg" alt="Evidence L31(1).jpeg" width="450"/> ``  | Final verification                |
+|<img src="EVIDENCE/L32.jpeg" alt="Evidence L32.jpeg.jpeg" width="450"/> ``   | Alternate final-result screenshot |
 
 ---
 
